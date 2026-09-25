@@ -11,5 +11,5 @@ Exploring bikeshare usage data from Chicago, New York City, and Washington using
 The files used are from three major cities in the United States: Chicago, New York City, and Washington.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity's Programming for Data Science with Python.
 
